@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rfr-roan.vercel.app/sitemap.xml
